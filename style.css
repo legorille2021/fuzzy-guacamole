@@ -1,0 +1,67 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  box-sizing: border-box;
+}
+.contenitore{
+  width: 900px;
+  margin: auto;
+  padding: 5%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.logo{
+  width: 200px;
+  margin-left: 20%;
+}
+.logo-text{
+  color: rgba(0,221,0,255);
+  font-size: 30px;
+  font-style: normal;
+}
+.contenitore2{
+  display: inline-block;
+  width: 900px;
+  height:40px;
+  background-color: rgba(0,221,0,255);
+  margin-left: auto;
+}
+
+main{
+  color: white;
+}
+.bianco{
+  font-size: 20px;
+}
+
+.paragrafo1{
+  display: inline-block;
+}
+
+#green{
+  width: 900px;
+  height:40px;
+  background-color: orange;
+  margin: auto;
+}
+
+.retangle-orange{
+  width: 400px;
+  height:30px;
+  border: 1px solid orange;
+  margin:1px;
+  background-color: orange;
+}
+.retangle-green{
+  width: 600px;
+  height:30px;
+  border: 1px solid green;
+  margin:1px;
+  background-color: green;
+}
+.retangle-red{
+  width: 200px;
+  height:30px;
+  border: 1px solid red;
+  margin:1px;
+  background-color: red;
+}
